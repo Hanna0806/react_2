@@ -1,0 +1,28 @@
+.btn {
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #00ffff;
+    box-shadow: 0px 0px 10px 5px cornflowerblue;
+    border: 1px solid black;
+    font-size: 16px;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #0004ff;
+    transform: scale(0.95);
+    color: black;
+}
+
+.btn:active {
+    transform: scale(0.9);
+    border: 1px solid #00ffff;;
+}
+
+.btn.dangerous {
+    background-color: red;
+}
+
+.primary {
+    background-color: #e100ff;
+}
