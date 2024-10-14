@@ -26,3 +26,16 @@
 .primary {
     background-color: #e100ff;
 }
+
+.btn_m {
+    padding: 12px 16px;
+}
+
+.btn_l {
+    padding: 13px 24px;
+}
+
+.temp {
+    background-color: green;
+
+}
