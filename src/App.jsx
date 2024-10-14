@@ -7,6 +7,7 @@ const [initionalState, setInitialState] =  useState(0)
 console.log('render App')
 
 
+
     return <>
         {/* <Button2 title='кнопка1'/>
      <Button2 title='кнопка2' isDanger m/>
